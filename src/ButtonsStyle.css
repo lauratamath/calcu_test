@@ -1,0 +1,17 @@
+.numeros:hover {
+    color: '#7CD2E4';
+    cursor: pointer;
+}
+
+.gray:hover{
+    color: 'A6A9AA';
+    cursor: pointer;
+}
+
+.del:hover{
+    color: '#FC9F9F';
+}
+
+.equal:hover{
+    color: '72C1CC';
+}
